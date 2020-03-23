@@ -6,6 +6,7 @@ import com.aaa.gj.repast.base.ResultData;
 import com.aaa.gj.repast.model.Member;
 import com.aaa.gj.repast.service.IRepastService;
 import com.aaa.gj.repast.utils.JSONUtil;
+import com.aaa.gj.repast.vo.TokenVo;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,11 +29,11 @@ public class MeberController extends BaseController {
     @ApiOperation(value = "登录",notes = "用户执行登录操作(接收微信端传递的数据)")
     @LoginLogAnnotation(operationType = "登录操作",operationName = "普通用户的登录")
     public ResultData doLogin(Member member){
-        Boolean ifsuccess = repastServicel.doLogin(member);
-        if (ifsuccess){
-            return super.success();
+        TokenVo tokenVo = repastServicel.doLogin(member);
+        if (tokenVo.isIfsuccess()){
+            return super.loginSuccess((Object) tokenVo.getToken());
         }
-        return super.failed();
+        return super.loginFailed();
     }
   /**
    * @ClassName MeberController

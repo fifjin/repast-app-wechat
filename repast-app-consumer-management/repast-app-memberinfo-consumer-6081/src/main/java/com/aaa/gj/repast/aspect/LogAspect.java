@@ -98,7 +98,7 @@ public class LogAspect {
         loginLog.setProvince((String) addressMap.get(PROVINCE));//省份信息
         loginLog.setLoginType(3);//登录类型，3是小程序
         loginLog.setCity((String) addressMap.get(CITY));//城市信息
-        String dateString = DateUtil.formatDate(new Date(),FORMAT_DATE);
+        String dateString = DateUtil.formatDate(new Date(),FORMAT_TIME);
         loginLog.setCreateTime(dateString);//日志创建时间;
         loginLog.setOpenId(member.getOpenId());//微信传来的OpenID
         loginLog.setOperationType(operationType);//操作类型

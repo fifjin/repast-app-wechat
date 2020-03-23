@@ -5,6 +5,7 @@ import com.aaa.gj.repast.mapper.MemberMapper;
 import com.aaa.gj.repast.model.Member;
 import com.aaa.gj.repast.utils.IDUtil;
 import com.aaa.gj.repast.utils.StringUtil;
+import com.aaa.gj.repast.vo.TokenVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.common.Mapper;
@@ -21,7 +22,8 @@ public class MemberService extends BaseService<Member> {
     public Mapper<Member> getMapper() {
         return memberMapper;
     }
-    public Boolean doLogin(Member member) {
+    public TokenVo doLogin(Member member) {
+        TokenVo tokenVo = new TokenVo();
         //判断member是否为null，openid是否为null
         if (null != member && null != member.getOpenId() && StringUtil.isNotEmpty(member.getOpenId())) {
             //判断是否为新用户
@@ -34,7 +36,8 @@ public class MemberService extends BaseService<Member> {
                     Integer updateResult = super.update(mb);
                     if (updateResult > 0) {
                         //修改token成功
-                        return true;
+                        tokenVo.setToken(token).setIfsuccess(true);
+                        return tokenVo;
                     }
                 } else {
                     //说明是新用户,需要把用户信息存储到数据库
@@ -42,20 +45,21 @@ public class MemberService extends BaseService<Member> {
                     Integer saveResult = super.save(member);
                     //判断是否保存成功
                     if (saveResult > 0){
-                        return true;
+                        tokenVo.setToken(token).setIfsuccess(true);
+                        return tokenVo;
                     }
                 }
             } catch (Exception e) {
                 e.printStackTrace();
             }
         }
-        return false;
+        return tokenVo.setIfsuccess(false);
     }
     /**
      * @ClassName MemberService
      * @Description : 根据openid查询用户信息
      *
-     * @param null
+     * @param openId
      * @Return :
      * @Author : gj
      * @Date : 2020/3/21 4:01

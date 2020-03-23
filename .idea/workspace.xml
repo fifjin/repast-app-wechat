@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a50528cf-b1ef-45fc-be3e-2a6dae9d7011" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/base/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/base/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/staticstatus/StaticCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/staticstatus/StaticCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/status/LoginStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/status/LoginStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/utils/FileNameUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/src/main/java/com/aaa/gj/repast/utils/FileNameUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/base/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/base/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/staticstatus/StaticCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/staticstatus/StaticCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/status/LoginStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/status/LoginStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/utils/FileNameUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-common/target/classes/com/aaa/gj/repast/utils/FileNameUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/aaa/gj/repast/aspect/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/aaa/gj/repast/aspect/LogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/aaa/gj/repast/controller/MeberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/src/main/java/com/aaa/gj/repast/controller/MeberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/aaa/gj/repast/controller/MeberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-consumer-management/repast-app-memberinfo-consumer-6081/target/classes/com/aaa/gj/repast/controller/MeberController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/aaa/gj/repast/fallback/RepastFallBackFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/aaa/gj/repast/fallback/RepastFallBackFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/aaa/gj/repast/service/IRepastService.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/src/main/java/com/aaa/gj/repast/service/IRepastService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/aaa/gj/repast/fallback/RepastFallBackFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/aaa/gj/repast/fallback/RepastFallBackFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/aaa/gj/repast/fallback/RepastFallBackFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/aaa/gj/repast/fallback/RepastFallBackFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/aaa/gj/repast/service/IRepastService.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-api/target/classes/com/aaa/gj/repast/service/IRepastService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/aaa/gj/repast/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/src/main/java/com/aaa/gj/repast/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/aaa/gj/repast/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-management/repast-app-management-service/target/classes/com/aaa/gj/repast/service/MemberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/java/com/aaa/gj/repast/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/src/main/java/com/aaa/gj/repast/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/com/aaa/gj/repast/controller/MemberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/repast-app-provider-management/repast-app-memberinfo-provider-8081/target/classes/com/aaa/gj/repast/controller/MemberController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +55,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Z9yCsOfuRbocYp7donC9hz8K3b" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,7 +71,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/二期/repast-app-parent" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/二期/20200317-m/all-repast-app-parent" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,20 +86,20 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\repast-app-parent\repast-app-management\repast-app-management-mapper\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aaa.gj.repast.utils" />
+      <recent name="com.aaa.gj.repast.staticstatus" />
+      <recent name="com.aaa.gj.repast.mapper" />
+      <recent name="com.aaa.gj.repast.model" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\repast-app-parent\repast-app-management\repast-app-management-mapper\src\main\resources\mapper" />
       <recent name="F:\repast-app-parent\repast-app-provider-management\repast-app-memberinfo-provider-8081\src\main\resources" />
       <recent name="F:\repast-app-parent\repast-app-management\repast-app-management-mapper\src\main\resources" />
       <recent name="F:\repast-app-parent\repast-app-common\src\main\java\com\aaa\gj\repast\utils" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.aaa.gj.repast.staticstatus" />
-      <recent name="com.aaa.gj.repast.utils" />
-      <recent name="com.aaa.gj.repast.mapper" />
-      <recent name="com.aaa.gj.repast.model" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\repast-app-parent\repast-app-management\repast-app-management-mapper\src\main\resources\mapper" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ApplicationRun8081">
@@ -175,7 +197,8 @@
       <workItem from="1584594192879" duration="10842000" />
       <workItem from="1584685918468" duration="11683000" />
       <workItem from="1584759989436" duration="1973000" />
-      <workItem from="1584765560129" duration="329000" />
+      <workItem from="1584765560129" duration="14878000" />
+      <workItem from="1584934591068" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="the test commit">
       <created>1584765679006</created>
@@ -184,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584765679006</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="the test del commit">
+      <created>1584766077287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584766077287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,65 +258,66 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="the test commit" />
+    <MESSAGE value="the test del commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="the test del commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1584623357619">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1584888704127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584623357619" />
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584888704127" />
     <state x="485" y="266" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1584720059305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="266" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584720059305" />
-    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1584734853402">
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1584889446604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584734853402" />
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584889446604" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584611457999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584611457999" />
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1584765675170">
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1584936589886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584765675170" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1584763515842">
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584936589886" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1584771607206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584763515842" />
-    <state width="1493" height="503" key="GridCell.Tab.0.bottom" timestamp="1584736760673">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584771607206" />
+    <state width="1493" height="503" key="GridCell.Tab.0.bottom" timestamp="1584894832664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760673" />
-    <state width="1493" height="503" key="GridCell.Tab.0.center" timestamp="1584736760673">
+    <state width="1493" height="503" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832664" />
+    <state width="1493" height="503" key="GridCell.Tab.0.center" timestamp="1584894832664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760673" />
-    <state width="1493" height="503" key="GridCell.Tab.0.left" timestamp="1584736760673">
+    <state width="1493" height="503" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832664" />
+    <state width="1493" height="503" key="GridCell.Tab.0.left" timestamp="1584894832664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760673" />
-    <state width="1493" height="503" key="GridCell.Tab.0.right" timestamp="1584736760673">
+    <state width="1493" height="503" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832664" />
+    <state width="1493" height="503" key="GridCell.Tab.0.right" timestamp="1584894832664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760673" />
-    <state width="1493" height="503" key="GridCell.Tab.1.bottom" timestamp="1584736760674">
+    <state width="1493" height="503" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832664" />
+    <state width="1493" height="503" key="GridCell.Tab.1.bottom" timestamp="1584894832665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760674" />
-    <state width="1493" height="503" key="GridCell.Tab.1.center" timestamp="1584736760674">
+    <state width="1493" height="503" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832665" />
+    <state width="1493" height="503" key="GridCell.Tab.1.center" timestamp="1584894832664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760674" />
-    <state width="1493" height="503" key="GridCell.Tab.1.left" timestamp="1584736760673">
+    <state width="1493" height="503" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832664" />
+    <state width="1493" height="503" key="GridCell.Tab.1.left" timestamp="1584894832664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760673" />
-    <state width="1493" height="503" key="GridCell.Tab.1.right" timestamp="1584736760674">
+    <state width="1493" height="503" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832664" />
+    <state width="1493" height="503" key="GridCell.Tab.1.right" timestamp="1584894832665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="503" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584736760674" />
+    <state width="1493" height="503" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584894832665" />
     <state width="1493" height="269" key="GridCell.Tab.2.bottom" timestamp="1584554478517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -307,10 +338,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584765408252" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584765915562">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584766092156">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584765915562" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584766092156" />
     <state x="178" y="107" key="new project wizard" timestamp="1584513429227">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

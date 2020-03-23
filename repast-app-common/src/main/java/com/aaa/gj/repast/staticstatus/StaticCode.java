@@ -29,7 +29,9 @@ public class StaticCode {
     /**
      * 常量时间格式
      */
-    public static final String FORMAT_DATE = "yyyy-MM-dd HH:mm:ss";
+    public static final String FORMAT_TIME = "yyyy-MM-dd HH:mm:ss";
+    // TODO 这里的ip是测试数据，上线的时候注意替换
+    public static final String FORMAT_DATE = "yyyy/MM/dd";
     // TODO 这里的ip是测试数据，上线的时候注意替换
     public static final String TEST_IP = "222.137.210.39";
     /**
